@@ -1,2 +1,2 @@
 # omara.us
-General website
+Website used for freelance coding by Declan O'Mara
